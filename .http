@@ -1,0 +1,8 @@
+GET http://127.0.0.1:3000/api/brands
+
+###
+GET http://127.0.0.1:3000/api/salaries
+
+###
+
+GET http://127.0.0.1:3000/api/revenue
